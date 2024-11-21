@@ -1,6 +1,5 @@
-# Steam Hour Booster
-Through python Steam Client API.  
+# # What's required? 
 
-First run install.bat then configure config file and run start.bat.
-
-## https://github.com/ValvePython/steam
+1. First, install python and dependencies.
+2. Enter the required data
+3. wait =)
